@@ -29,7 +29,7 @@ This project is perfect for beginners learning:
 
 ## 🛠 Technologies Used
 - **Language**: C
-- **Compiler**: GCC / MinGW / Turbo C
+- **Compiler**: GCC / MinGW / Turbo
 
 ---
 
